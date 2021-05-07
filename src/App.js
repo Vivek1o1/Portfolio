@@ -8,6 +8,7 @@ export default function App() {
       <Nav />
       <Main />
       <MyServices />
+      {/* TODO: project seciton footer contact form */}
     </div>
   );
 }
